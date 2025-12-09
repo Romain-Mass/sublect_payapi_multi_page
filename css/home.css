@@ -112,10 +112,20 @@ p {
 .image02 {
 	position: absolute;
 	top: 50px;
-    left: 100px;
+	left: 100px;
 }
 .img02 {
-    position: absolute;
-    top: 60px;
-    left: 500px;
+	position: absolute;
+	top: 60px;
+	left: 500px;
+}
+.img3 {
+	background-color: #36536b;
+	height: 100px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	border-radius: 9999px;
+	padding: 10px;
 }
