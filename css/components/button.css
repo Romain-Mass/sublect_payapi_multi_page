@@ -1,0 +1,11 @@
+.primary:hover {
+	background-color: #da6d97;
+}
+.primary:disabled {
+	background-color: #ba4270;
+}
+.primary {
+	background-color: #ba4270;
+	border-radius: 99999px;
+	border: none;
+}
