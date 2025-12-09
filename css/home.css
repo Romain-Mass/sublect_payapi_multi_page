@@ -23,6 +23,7 @@ h2 {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	width: 100%;
 }
 .spec1 {
 	margin-bottom: 100px;
@@ -61,7 +62,7 @@ h2 {
 }
 
 h3 {
-	color: white;
+	color: #36536b;
 	font-family: DM Serif Display;
 	font-weight: 400;
 	font-size: 32px;
@@ -85,4 +86,36 @@ p {
 	color: white;
 	border: solid 1px white;
 	border-radius: 9999px;
+}
+.para1 {
+	color: #6c8294;
+	font-family: Public Sans;
+	font-weight: 400;
+	font-size: 15px;
+	line-height: 28px;
+	letter-spacing: 0px;
+	text-align: center;
+}
+.bloc3 {
+	display: flex;
+	flex-direction: row;
+}
+.images2 {
+	height: 400px;
+}
+.img2 {
+	height: 400px;
+}
+.image01 {
+	position: relative;
+}
+.image02 {
+	position: absolute;
+	top: 50px;
+    left: 100px;
+}
+.img02 {
+    position: absolute;
+    top: 60px;
+    left: 500px;
 }
